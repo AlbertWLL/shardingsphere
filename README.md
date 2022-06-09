@@ -1,0 +1,3 @@
+# shardingsphere
+shardingSphere分库分表 
+利用shardingSphere实现分库分表

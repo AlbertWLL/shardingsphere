@@ -11,10 +11,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 @RunWith(SpringRunner.class)
 @EnableCaching //开启缓存
-public class BreakThroughApplication {
+public class ShardingSphereApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BreakThroughApplication.class, args);
+        SpringApplication.run(ShardingSphereApplication.class, args);
 
     }
 

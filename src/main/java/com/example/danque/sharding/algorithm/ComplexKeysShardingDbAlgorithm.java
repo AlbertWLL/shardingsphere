@@ -18,7 +18,7 @@ import java.util.Collections;
 public class ComplexKeysShardingDbAlgorithm implements ComplexKeysShardingAlgorithm<String> {
 
     /**
-     * @param availableTargetNames 数据库集合（sharding-1000）
+     * @param availableTargetNames 数据库集合（sharding-1000，sharding-1001）
      * @param shardingValue logicTable(tb_vehicle)   coId
      * @return  返回物理分库
      */
